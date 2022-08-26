@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "build.bak": "nuxt build",
+    "dev": "nuxt dev",
+    "build": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  }
+}
